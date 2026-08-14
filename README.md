@@ -1,7 +1,7 @@
 # fat12-disk-forensics
 
 FAT12 File System Forensic Analysis
-
+ 
 Forensic investigation of a disk image suspected to contain evidence of fraudulent activity, focused on validating evidence integrity and recovering deleted files from a FAT12 file system.
 
 Objective
